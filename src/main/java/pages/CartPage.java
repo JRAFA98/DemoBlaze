@@ -32,17 +32,8 @@ public class CartPage extends BasePage{
 		PageFactory.initElements(driver, this);
 	}
 	
-	public void addCarrito(int cant) throws InterruptedException {
+	public void addCarrito() throws InterruptedException {
 		
-		for(int i = 0; i <= cant; i++) {
-			
-			//agregarProducto
-			clickOnElementWait(10,btnProduct1);
-			clickOnElementWait(10,btnAddCart);
-			acceptAlert();
-			clickOnElement(btnHome);			
-		}
-		/*
 		//Agregar_Producto_1
 		clickOnElementWait(10,btnProduct1);
 		clickOnElementWait(10,btnAddCart);
@@ -66,6 +57,6 @@ public class CartPage extends BasePage{
 		clickOnElementWait(10,btnAddCart);
 		acceptAlert();
 		clickOnElement(btnHome);
-		*/
+		
 	}
 }
