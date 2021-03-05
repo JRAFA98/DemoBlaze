@@ -1,0 +1,314 @@
+2021-03-05 16:06:33 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 16:06:34 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3aa0b0d3a28a320913deab3f576b9417)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:06:34 INFO  BasePage:46 - Accept alert
+2021-03-05 16:06:35 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3aa0b0d3a28a320913deab3f576b9417)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:06:36 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 16:06:36 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3aa0b0d3a28a320913deab3f576b9417)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:06:37 INFO  BasePage:46 - Accept alert
+2021-03-05 16:06:37 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3aa0b0d3a28a320913deab3f576b9417)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:06:38 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 16:06:39 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3aa0b0d3a28a320913deab3f576b9417)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:06:39 INFO  BasePage:46 - Accept alert
+2021-03-05 16:06:39 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3aa0b0d3a28a320913deab3f576b9417)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:06:40 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 16:06:41 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3aa0b0d3a28a320913deab3f576b9417)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:06:41 INFO  BasePage:46 - Accept alert
+2021-03-05 16:06:42 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3aa0b0d3a28a320913deab3f576b9417)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:57:00 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 16:57:01 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f4f651ee50af7dece2a0774e2777c83)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:57:01 INFO  BasePage:46 - Accept alert
+2021-03-05 16:57:02 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f4f651ee50af7dece2a0774e2777c83)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:57:02 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 16:57:03 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f4f651ee50af7dece2a0774e2777c83)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:57:04 INFO  BasePage:46 - Accept alert
+2021-03-05 16:57:04 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f4f651ee50af7dece2a0774e2777c83)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:57:05 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 16:57:05 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f4f651ee50af7dece2a0774e2777c83)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:57:06 INFO  BasePage:46 - Accept alert
+2021-03-05 16:57:06 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f4f651ee50af7dece2a0774e2777c83)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:57:07 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 16:57:08 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f4f651ee50af7dece2a0774e2777c83)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:57:08 INFO  BasePage:46 - Accept alert
+2021-03-05 16:57:09 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7f4f651ee50af7dece2a0774e2777c83)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:57:13 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: cartur'
+2021-03-05 16:58:39 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 16:58:40 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (6abeff36eae0c3b078156e3c4aada19a)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:58:40 INFO  BasePage:46 - Accept alert
+2021-03-05 16:58:40 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (6abeff36eae0c3b078156e3c4aada19a)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:58:41 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 16:58:42 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (6abeff36eae0c3b078156e3c4aada19a)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:58:42 INFO  BasePage:46 - Accept alert
+2021-03-05 16:58:43 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (6abeff36eae0c3b078156e3c4aada19a)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:58:44 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 16:58:44 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (6abeff36eae0c3b078156e3c4aada19a)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:58:45 INFO  BasePage:46 - Accept alert
+2021-03-05 16:58:45 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (6abeff36eae0c3b078156e3c4aada19a)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:58:46 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 16:58:47 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (6abeff36eae0c3b078156e3c4aada19a)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:58:47 INFO  BasePage:46 - Accept alert
+2021-03-05 16:58:48 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (6abeff36eae0c3b078156e3c4aada19a)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:58:48 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (6abeff36eae0c3b078156e3c4aada19a)] -> id: cartur]
+2021-03-05 16:59:19 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 16:59:20 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (944f8448ef04b7fead0d685760622163)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:59:20 INFO  BasePage:46 - Accept alert
+2021-03-05 16:59:21 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (944f8448ef04b7fead0d685760622163)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:59:22 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 16:59:22 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (944f8448ef04b7fead0d685760622163)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:59:23 INFO  BasePage:46 - Accept alert
+2021-03-05 16:59:23 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (944f8448ef04b7fead0d685760622163)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:59:24 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 16:59:24 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (944f8448ef04b7fead0d685760622163)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:59:25 INFO  BasePage:46 - Accept alert
+2021-03-05 16:59:25 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (944f8448ef04b7fead0d685760622163)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:59:26 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 16:59:27 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (944f8448ef04b7fead0d685760622163)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 16:59:27 INFO  BasePage:46 - Accept alert
+2021-03-05 16:59:28 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (944f8448ef04b7fead0d685760622163)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 16:59:28 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (944f8448ef04b7fead0d685760622163)] -> id: cartur]
+2021-03-05 17:00:42 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:00:43 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3b3dbdc3148d5f82b4ab766130a33afe)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:00:43 INFO  BasePage:46 - Accept alert
+2021-03-05 17:00:44 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3b3dbdc3148d5f82b4ab766130a33afe)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:00:44 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:00:45 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3b3dbdc3148d5f82b4ab766130a33afe)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:00:46 INFO  BasePage:46 - Accept alert
+2021-03-05 17:00:46 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3b3dbdc3148d5f82b4ab766130a33afe)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:00:47 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:00:47 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3b3dbdc3148d5f82b4ab766130a33afe)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:00:48 INFO  BasePage:46 - Accept alert
+2021-03-05 17:00:48 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3b3dbdc3148d5f82b4ab766130a33afe)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:00:49 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:00:50 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3b3dbdc3148d5f82b4ab766130a33afe)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:00:50 INFO  BasePage:46 - Accept alert
+2021-03-05 17:00:50 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3b3dbdc3148d5f82b4ab766130a33afe)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:00:51 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (3b3dbdc3148d5f82b4ab766130a33afe)] -> id: cartur]
+2021-03-05 17:01:20 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:01:21 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1569ac28c94bca13a2ec6815cbb0132c)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:01:21 INFO  BasePage:46 - Accept alert
+2021-03-05 17:01:21 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1569ac28c94bca13a2ec6815cbb0132c)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:01:22 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:01:23 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1569ac28c94bca13a2ec6815cbb0132c)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:01:23 INFO  BasePage:46 - Accept alert
+2021-03-05 17:01:24 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1569ac28c94bca13a2ec6815cbb0132c)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:01:25 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:01:25 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1569ac28c94bca13a2ec6815cbb0132c)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:01:26 INFO  BasePage:46 - Accept alert
+2021-03-05 17:01:26 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1569ac28c94bca13a2ec6815cbb0132c)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:01:27 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:01:28 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1569ac28c94bca13a2ec6815cbb0132c)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:01:28 INFO  BasePage:46 - Accept alert
+2021-03-05 17:01:29 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1569ac28c94bca13a2ec6815cbb0132c)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:01:29 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (1569ac28c94bca13a2ec6815cbb0132c)] -> id: cartur]
+2021-03-05 17:01:48 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:01:48 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:01:49 INFO  BasePage:46 - Accept alert
+2021-03-05 17:01:49 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:01:50 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:01:51 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:01:51 INFO  BasePage:46 - Accept alert
+2021-03-05 17:01:52 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:01:52 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:01:53 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:01:54 INFO  BasePage:46 - Accept alert
+2021-03-05 17:01:54 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:01:55 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:01:55 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:01:56 INFO  BasePage:46 - Accept alert
+2021-03-05 17:01:56 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:01:56 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> id: cartur]
+2021-03-05 17:01:57 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (5850dc616e541fd41fcb0c893d608743)] -> id: cartur]
+2021-03-05 17:02:43 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:02:44 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (48ae9d6e155bb635cf2096292455a8e8)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:02:44 INFO  BasePage:46 - Accept alert
+2021-03-05 17:02:44 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (48ae9d6e155bb635cf2096292455a8e8)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:02:45 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:02:46 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (48ae9d6e155bb635cf2096292455a8e8)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:02:46 INFO  BasePage:46 - Accept alert
+2021-03-05 17:02:47 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (48ae9d6e155bb635cf2096292455a8e8)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:02:48 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:02:48 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (48ae9d6e155bb635cf2096292455a8e8)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:02:49 INFO  BasePage:46 - Accept alert
+2021-03-05 17:02:49 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (48ae9d6e155bb635cf2096292455a8e8)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:02:50 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:02:51 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (48ae9d6e155bb635cf2096292455a8e8)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:02:51 INFO  BasePage:46 - Accept alert
+2021-03-05 17:02:52 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (48ae9d6e155bb635cf2096292455a8e8)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:02:52 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (48ae9d6e155bb635cf2096292455a8e8)] -> id: cartur]
+2021-03-05 17:04:02 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: cartur'
+2021-03-05 17:04:34 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:04:35 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (cb7ba595d83c9e95c478447cafc1f03b)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:04:35 INFO  BasePage:46 - Accept alert
+2021-03-05 17:04:35 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (cb7ba595d83c9e95c478447cafc1f03b)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:04:36 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:04:37 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (cb7ba595d83c9e95c478447cafc1f03b)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:04:37 INFO  BasePage:46 - Accept alert
+2021-03-05 17:04:38 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (cb7ba595d83c9e95c478447cafc1f03b)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:04:38 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:04:39 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (cb7ba595d83c9e95c478447cafc1f03b)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:04:40 INFO  BasePage:46 - Accept alert
+2021-03-05 17:04:40 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (cb7ba595d83c9e95c478447cafc1f03b)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:04:41 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:04:41 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (cb7ba595d83c9e95c478447cafc1f03b)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:04:42 INFO  BasePage:46 - Accept alert
+2021-03-05 17:04:42 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: cartur'
+2021-03-05 17:05:10 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:05:10 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (890d7a15a562acdff221f7a2215aad7f)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:05:11 INFO  BasePage:46 - Accept alert
+2021-03-05 17:05:11 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (890d7a15a562acdff221f7a2215aad7f)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:05:12 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:05:13 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (890d7a15a562acdff221f7a2215aad7f)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:05:13 INFO  BasePage:46 - Accept alert
+2021-03-05 17:05:14 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (890d7a15a562acdff221f7a2215aad7f)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:05:14 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:05:15 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (890d7a15a562acdff221f7a2215aad7f)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:05:15 INFO  BasePage:46 - Accept alert
+2021-03-05 17:05:16 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (890d7a15a562acdff221f7a2215aad7f)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:05:17 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:05:17 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (890d7a15a562acdff221f7a2215aad7f)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:05:18 INFO  BasePage:46 - Accept alert
+2021-03-05 17:05:18 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (890d7a15a562acdff221f7a2215aad7f)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:05:18 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (890d7a15a562acdff221f7a2215aad7f)] -> id: cartur]
+2021-03-05 17:05:41 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:05:42 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (a108855bb758c0b9cceda878e0c66140)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:05:42 INFO  BasePage:46 - Accept alert
+2021-03-05 17:05:43 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (a108855bb758c0b9cceda878e0c66140)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:05:44 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:05:44 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (a108855bb758c0b9cceda878e0c66140)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:05:45 INFO  BasePage:46 - Accept alert
+2021-03-05 17:05:45 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (a108855bb758c0b9cceda878e0c66140)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:05:46 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:05:47 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (a108855bb758c0b9cceda878e0c66140)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:05:47 INFO  BasePage:46 - Accept alert
+2021-03-05 17:05:47 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (a108855bb758c0b9cceda878e0c66140)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:05:48 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:05:49 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (a108855bb758c0b9cceda878e0c66140)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:05:49 INFO  BasePage:46 - Accept alert
+2021-03-05 17:05:50 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (a108855bb758c0b9cceda878e0c66140)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:05:50 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (a108855bb758c0b9cceda878e0c66140)] -> id: cartur]
+2021-03-05 17:07:31 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:07:32 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (16bd27dd1fdff5abba1d80d4ca861046)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:07:32 INFO  BasePage:46 - Accept alert
+2021-03-05 17:07:33 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (16bd27dd1fdff5abba1d80d4ca861046)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:07:33 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:07:34 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (16bd27dd1fdff5abba1d80d4ca861046)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:07:35 INFO  BasePage:46 - Accept alert
+2021-03-05 17:07:35 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (16bd27dd1fdff5abba1d80d4ca861046)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:07:36 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:07:36 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (16bd27dd1fdff5abba1d80d4ca861046)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:07:37 INFO  BasePage:46 - Accept alert
+2021-03-05 17:07:37 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (16bd27dd1fdff5abba1d80d4ca861046)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:07:38 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:07:39 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (16bd27dd1fdff5abba1d80d4ca861046)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:07:39 INFO  BasePage:46 - Accept alert
+2021-03-05 17:07:40 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: cartur'
+2021-03-05 17:13:47 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:13:48 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (4badf845d4b07c65f9590fac4ba9c272)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:13:48 INFO  BasePage:46 - Accept alert
+2021-03-05 17:13:49 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (4badf845d4b07c65f9590fac4ba9c272)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:13:50 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:13:50 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (4badf845d4b07c65f9590fac4ba9c272)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:13:51 INFO  BasePage:46 - Accept alert
+2021-03-05 17:13:51 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (4badf845d4b07c65f9590fac4ba9c272)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:13:52 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:13:53 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (4badf845d4b07c65f9590fac4ba9c272)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:13:53 INFO  BasePage:46 - Accept alert
+2021-03-05 17:13:53 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (4badf845d4b07c65f9590fac4ba9c272)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:13:54 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:13:55 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (4badf845d4b07c65f9590fac4ba9c272)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:13:56 INFO  BasePage:46 - Accept alert
+2021-03-05 17:13:56 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: cartur'
+2021-03-05 17:13:57 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (4badf845d4b07c65f9590fac4ba9c272)] -> xpath: //*[@id="tbodyid"]/tr[1]/td[4]/a]
+2021-03-05 17:13:57 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (4badf845d4b07c65f9590fac4ba9c272)] -> xpath: //*[@id="tbodyid"]/tr[2]/td[4]/a]
+2021-03-05 17:15:47 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:15:47 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (795f76f92b664e20f515bf327a0f973e)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:15:48 INFO  BasePage:46 - Accept alert
+2021-03-05 17:15:48 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (795f76f92b664e20f515bf327a0f973e)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:15:49 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:15:50 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (795f76f92b664e20f515bf327a0f973e)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:15:50 INFO  BasePage:46 - Accept alert
+2021-03-05 17:15:51 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (795f76f92b664e20f515bf327a0f973e)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:15:51 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:15:52 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (795f76f92b664e20f515bf327a0f973e)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:15:53 INFO  BasePage:46 - Accept alert
+2021-03-05 17:15:53 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (795f76f92b664e20f515bf327a0f973e)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:15:54 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:15:54 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (795f76f92b664e20f515bf327a0f973e)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:15:55 INFO  BasePage:46 - Accept alert
+2021-03-05 17:15:55 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: cartur'
+2021-03-05 17:15:56 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (795f76f92b664e20f515bf327a0f973e)] -> xpath: //*[@id="tbodyid"]/tr[1]/td[4]/a]
+2021-03-05 17:15:56 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (795f76f92b664e20f515bf327a0f973e)] -> xpath: //*[@id="tbodyid"]/tr[2]/td[4]/a]
+2021-03-05 17:26:33 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:26:34 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d6f87864568c703b541e87162f71c5ea)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:26:35 INFO  BasePage:46 - Accept alert
+2021-03-05 17:26:35 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d6f87864568c703b541e87162f71c5ea)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:26:36 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:26:36 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d6f87864568c703b541e87162f71c5ea)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:26:37 INFO  BasePage:46 - Accept alert
+2021-03-05 17:26:37 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d6f87864568c703b541e87162f71c5ea)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:26:38 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:26:39 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d6f87864568c703b541e87162f71c5ea)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:26:39 INFO  BasePage:46 - Accept alert
+2021-03-05 17:26:39 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d6f87864568c703b541e87162f71c5ea)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:26:40 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:26:41 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d6f87864568c703b541e87162f71c5ea)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:26:41 INFO  BasePage:46 - Accept alert
+2021-03-05 17:26:42 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: cartur'
+2021-03-05 17:26:43 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d6f87864568c703b541e87162f71c5ea)] -> xpath: //*[@id="tbodyid"]/tr[1]/td[4]/a]
+2021-03-05 17:26:43 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (d6f87864568c703b541e87162f71c5ea)] -> xpath: //*[@id="tbodyid"]/tr[2]/td[4]/a]
+2021-03-05 17:26:47 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:26:47 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (84eeb08456686e0ba2e51e6f8ea84a73)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:26:48 INFO  BasePage:46 - Accept alert
+2021-03-05 17:26:48 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (84eeb08456686e0ba2e51e6f8ea84a73)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:26:49 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:26:50 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (84eeb08456686e0ba2e51e6f8ea84a73)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:26:50 INFO  BasePage:46 - Accept alert
+2021-03-05 17:26:50 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (84eeb08456686e0ba2e51e6f8ea84a73)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:26:51 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:26:52 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (84eeb08456686e0ba2e51e6f8ea84a73)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:26:53 INFO  BasePage:46 - Accept alert
+2021-03-05 17:26:53 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (84eeb08456686e0ba2e51e6f8ea84a73)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:26:54 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:26:54 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (84eeb08456686e0ba2e51e6f8ea84a73)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:26:55 INFO  BasePage:46 - Accept alert
+2021-03-05 17:29:45 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:29:46 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (04b7ebb26c434e5cf3a4e96f2d018060)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:29:47 INFO  BasePage:46 - Accept alert
+2021-03-05 17:29:47 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (04b7ebb26c434e5cf3a4e96f2d018060)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:29:48 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:29:48 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (04b7ebb26c434e5cf3a4e96f2d018060)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:29:49 INFO  BasePage:46 - Accept alert
+2021-03-05 17:29:49 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (04b7ebb26c434e5cf3a4e96f2d018060)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:29:50 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:29:51 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (04b7ebb26c434e5cf3a4e96f2d018060)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:29:51 INFO  BasePage:46 - Accept alert
+2021-03-05 17:29:51 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (04b7ebb26c434e5cf3a4e96f2d018060)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:29:52 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:29:53 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (04b7ebb26c434e5cf3a4e96f2d018060)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:29:53 INFO  BasePage:46 - Accept alert
+2021-03-05 17:29:54 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.id: cartur'
+2021-03-05 17:29:54 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (04b7ebb26c434e5cf3a4e96f2d018060)] -> xpath: //*[@id="tbodyid"]/tr[1]/td[4]/a]
+2021-03-05 17:29:55 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (04b7ebb26c434e5cf3a4e96f2d018060)] -> xpath: //*[@id="tbodyid"]/tr[2]/td[4]/a]
+2021-03-05 17:29:59 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a'
+2021-03-05 17:29:59 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (729a4021e948fe3dc50e501744da02f8)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:30:00 INFO  BasePage:46 - Accept alert
+2021-03-05 17:30:00 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (729a4021e948fe3dc50e501744da02f8)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:30:01 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[2]/div/div/h4/a'
+2021-03-05 17:30:02 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (729a4021e948fe3dc50e501744da02f8)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:30:02 INFO  BasePage:46 - Accept alert
+2021-03-05 17:30:03 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (729a4021e948fe3dc50e501744da02f8)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:30:04 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[3]/div/div/h4/a'
+2021-03-05 17:30:04 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (729a4021e948fe3dc50e501744da02f8)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:30:05 INFO  BasePage:46 - Accept alert
+2021-03-05 17:30:05 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (729a4021e948fe3dc50e501744da02f8)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:30:06 INFO  BasePage:34 - Clicked on element: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="tbodyid"]/div[9]/div/div/h4/a'
+2021-03-05 17:30:07 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (729a4021e948fe3dc50e501744da02f8)] -> xpath: //*[@id="tbodyid"]/div[2]/div/a]
+2021-03-05 17:30:07 INFO  BasePage:46 - Accept alert
+2021-03-05 17:30:08 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (729a4021e948fe3dc50e501744da02f8)] -> xpath: //*[@id="navbarExample"]/ul/li[1]/a]
+2021-03-05 17:35:09 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7caa3aa965830eca2113267f934eac94)] -> id: login2]
+2021-03-05 17:35:10 INFO  BasePage:24 - Type on element: [[ChromeDriver: chrome on WINDOWS (7caa3aa965830eca2113267f934eac94)] -> id: loginusername] , Data: qwerty5666111
+2021-03-05 17:35:10 INFO  BasePage:24 - Type on element: [[ChromeDriver: chrome on WINDOWS (7caa3aa965830eca2113267f934eac94)] -> id: loginpassword] , Data: qwerty5666111
+2021-03-05 17:35:10 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (7caa3aa965830eca2113267f934eac94)] -> xpath: //*[@id="logInModal"]/div/div/div[3]/button[2]]
+2021-03-05 17:35:14 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (bba58af3043761af1f176a2948703489)] -> id: login2]
+2021-03-05 17:35:14 INFO  BasePage:24 - Type on element: [[ChromeDriver: chrome on WINDOWS (bba58af3043761af1f176a2948703489)] -> id: loginusername] , Data: qwerty5666
+2021-03-05 17:35:14 INFO  BasePage:24 - Type on element: [[ChromeDriver: chrome on WINDOWS (bba58af3043761af1f176a2948703489)] -> id: loginpassword] , Data: qwerty5666
+2021-03-05 17:35:15 INFO  BasePage:34 - Clicked on element: [[ChromeDriver: chrome on WINDOWS (bba58af3043761af1f176a2948703489)] -> xpath: //*[@id="logInModal"]/div/div/div[3]/button[2]]

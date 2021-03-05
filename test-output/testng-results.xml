@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-02-26T21:52:42 CST" name="Default suite" finished-at="2021-02-26T21:52:47 CST" duration-ms="4667">
+  <suite started-at="2021-03-05T17:35:04 CST" name="Default suite" finished-at="2021-03-05T17:35:15 CST" duration-ms="10759">
     <groups>
     </groups>
-    <test started-at="2021-02-26T21:52:42 CST" name="Default test" finished-at="2021-02-26T21:52:47 CST" duration-ms="4667">
+    <test started-at="2021-03-05T17:35:04 CST" name="Default test" finished-at="2021-03-05T17:35:15 CST" duration-ms="10759">
       <class name="test.Test_Login">
-        <test-method signature="testLogin()[pri:0, instance:test.Test_Login@503d687a]" started-at="2021-02-26T21:52:43 CST" name="testLogin" finished-at="2021-02-26T21:52:47 CST" duration-ms="4620" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Login@40e4ea87]" started-at="2021-03-05T17:35:04 CST" name="setup" finished-at="2021-03-05T17:35:08 CST" duration-ms="3749" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLogin -->
+        </test-method> <!-- setup -->
+        <test-method signature="credencialesInvalidas()[pri:0, instance:test.Test_Login@40e4ea87]" started-at="2021-03-05T17:35:08 CST" name="credencialesInvalidas" finished-at="2021-03-05T17:35:10 CST" duration-ms="2504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credencialesInvalidas -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Login@40e4ea87]" started-at="2021-03-05T17:35:10 CST" name="setup" finished-at="2021-03-05T17:35:13 CST" duration-ms="3195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="credencialesValidas()[pri:0, instance:test.Test_Login@40e4ea87]" started-at="2021-03-05T17:35:13 CST" name="credencialesValidas" finished-at="2021-03-05T17:35:15 CST" duration-ms="1239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- credencialesValidas -->
       </class> <!-- test.Test_Login -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

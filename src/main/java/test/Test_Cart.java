@@ -1,19 +1,21 @@
 package test;
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 import pages.CartPage;
 
-public class Test_Cart {
+public class Test_Cart extends BaseTest  {
+	CartPage cartPage;
 	@Test 
 	public void testAddCard() throws InterruptedException {
-		String url = "https://www.demoblaze.com/index.html";
-		WebDriver driver = new ChromeDriver();
-		driver.get(url);
-		
-		CartPage cartPage = new CartPage(driver); 
-		cartPage.addCarrito();
+		cartPage = new CartPage(driver); 
+		cartPage.addCarrito(0);
+	}
+	
+	
+	@Test 
+	public void removeProductsCard() throws InterruptedException {
+		cartPage = new CartPage(driver);
+		cartPage.addCarrito(1);
 	}
 }
