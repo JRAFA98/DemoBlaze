@@ -6,28 +6,28 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage extends BasePage {
-	@FindBy (id="login2")
+	@FindBy(id = "login2")
 	WebElement btnMakeAppt;
-	
-	@FindBy (id="loginusername")
+
+	@FindBy(id = "loginusername")
 	WebElement usernameField;
-	
-	@FindBy (id="loginpassword")
+
+	@FindBy(id = "loginpassword")
 	WebElement pwdField;
-	
-	@FindBy (xpath ="//*[@id=\"logInModal\"]/div/div/div[3]/button[2]")
+
+	@FindBy(xpath = "//div[@id=\"logInModal\"]/div/div/div[3]/button[2]")
 	WebElement btnLogin;
 
-
-	public LoginPage (WebDriver driver) {
+	public LoginPage(WebDriver driver) {
 		super(driver);
 		PageFactory.initElements(driver, this);
 	}
 
-	public void doLogin(String user, String pwd) {
-		clickOnElement(btnMakeAppt, 10);
-		typeOnElement(usernameField, user, 10);
-		typeOnElement(pwdField, user, 10);
-		clickOnElement(btnLogin, 10);
+	public HomePage doLogin(String user, String pwd) {
+		clickOnElement(btnMakeAppt);
+		typeOnElement(usernameField, user);
+		typeOnElement(pwdField, user);
+		clickOnElement(btnLogin);
+		return new HomePage(driver);
 	}
 }

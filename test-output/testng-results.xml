@@ -1,29 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-03-05T17:35:04 CST" name="Default suite" finished-at="2021-03-05T17:35:15 CST" duration-ms="10759">
+  <suite started-at="2021-03-12T22:27:13 CST" name="MySuite" finished-at="2021-03-12T22:29:31 CST" duration-ms="138526">
     <groups>
     </groups>
-    <test started-at="2021-03-05T17:35:04 CST" name="Default test" finished-at="2021-03-05T17:35:15 CST" duration-ms="10759">
-      <class name="test.Test_Login">
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Login@40e4ea87]" started-at="2021-03-05T17:35:04 CST" name="setup" finished-at="2021-03-05T17:35:08 CST" duration-ms="3749" status="PASS">
+    <test started-at="2021-03-12T22:27:13 CST" name="DemoBlaze" finished-at="2021-03-12T22:29:31 CST" duration-ms="138526">
+      <class name="test.Test_Cart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Cart@3738449f]" started-at="2021-03-12T22:27:13 CST" name="setup" finished-at="2021-03-12T22:27:17 CST" duration-ms="4020" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="credencialesInvalidas()[pri:0, instance:test.Test_Login@40e4ea87]" started-at="2021-03-05T17:35:08 CST" name="credencialesInvalidas" finished-at="2021-03-05T17:35:10 CST" duration-ms="2504" status="PASS">
+        <test-method signature="MakeOrder()[pri:0, instance:test.Test_Cart@3738449f]" started-at="2021-03-12T22:27:17 CST" name="MakeOrder" finished-at="2021-03-12T22:28:43 CST" duration-ms="86311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MakeOrder -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.Test_Cart@3738449f]" started-at="2021-03-12T22:28:43 CST" name="tearDown" finished-at="2021-03-12T22:28:44 CST" duration-ms="651" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Cart@3738449f]" started-at="2021-03-12T22:28:44 CST" name="setup" finished-at="2021-03-12T22:28:47 CST" duration-ms="2927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="removeProductsCard()[pri:0, instance:test.Test_Cart@3738449f]" started-at="2021-03-12T22:28:47 CST" name="removeProductsCard" finished-at="2021-03-12T22:29:07 CST" duration-ms="19882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeProductsCard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.Test_Cart@3738449f]" started-at="2021-03-12T22:29:07 CST" name="tearDown" finished-at="2021-03-12T22:29:07 CST" duration-ms="669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Cart@3738449f]" started-at="2021-03-12T22:29:07 CST" name="setup" finished-at="2021-03-12T22:29:10 CST" duration-ms="2774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAddCard()[pri:0, instance:test.Test_Cart@3738449f]" started-at="2021-03-12T22:29:10 CST" name="testAddCard" finished-at="2021-03-12T22:29:19 CST" duration-ms="9366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddCard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.Test_Cart@3738449f]" started-at="2021-03-12T22:29:19 CST" name="tearDown" finished-at="2021-03-12T22:29:20 CST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.Test_Cart -->
+      <class name="test.Test_Login">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Login@69e1dd28]" started-at="2021-03-12T22:29:20 CST" name="setup" finished-at="2021-03-12T22:29:23 CST" duration-ms="2859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="credencialesInvalidas()[pri:0, instance:test.Test_Login@69e1dd28]" started-at="2021-03-12T22:29:23 CST" name="credencialesInvalidas" finished-at="2021-03-12T22:29:25 CST" duration-ms="1742" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- credencialesInvalidas -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Login@40e4ea87]" started-at="2021-03-05T17:35:10 CST" name="setup" finished-at="2021-03-05T17:35:13 CST" duration-ms="3195" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.Test_Login@69e1dd28]" started-at="2021-03-12T22:29:25 CST" name="tearDown" finished-at="2021-03-12T22:29:25 CST" duration-ms="676" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.Test_Login@69e1dd28]" started-at="2021-03-12T22:29:25 CST" name="setup" finished-at="2021-03-12T22:29:28 CST" duration-ms="2873" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="credencialesValidas()[pri:0, instance:test.Test_Login@40e4ea87]" started-at="2021-03-05T17:35:13 CST" name="credencialesValidas" finished-at="2021-03-05T17:35:15 CST" duration-ms="1239" status="PASS">
+        <test-method signature="credencialesValidas()[pri:0, instance:test.Test_Login@69e1dd28]" started-at="2021-03-12T22:29:28 CST" name="credencialesValidas" finished-at="2021-03-12T22:29:31 CST" duration-ms="2339" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- credencialesValidas -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.Test_Login@69e1dd28]" started-at="2021-03-12T22:29:31 CST" name="tearDown" finished-at="2021-03-12T22:29:31 CST" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
       </class> <!-- test.Test_Login -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- DemoBlaze -->
+  </suite> <!-- MySuite -->
 </testng-results>
